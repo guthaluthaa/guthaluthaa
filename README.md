@@ -1,6 +1,6 @@
 ### 👋 Bem vindo !! ✌
 
-- 🕵️‍ Me chamo Gustavo
+- 🕵️‍ Me chamo Gustavo Leite
 - 📘 Estudante de Ciencia da Computação na FEI
 - 🔭 Procurando estagio na area
 - 🌱 Atualmente treinando algoritmos
