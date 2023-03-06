@@ -25,4 +25,4 @@
 
 </div>
 
- //![Snake animation](https://github.com/guthaluthaa/guthaluthaa/blob/output/github-contribution-grid-snake.svg))
+
