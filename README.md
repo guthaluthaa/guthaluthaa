@@ -7,7 +7,7 @@
 - 🌱 Atualmente treinando algoritmos
 - 😄 Pronouns: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guthaluthaa&show_icons=true&theme=algolia   )
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guthaluthaa&show_icons=true&theme=nightowl    )
 
 
 <div style="display: inline_block"><br>
