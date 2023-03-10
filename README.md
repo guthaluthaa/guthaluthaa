@@ -7,7 +7,7 @@
 - 🌱 Atualmente treinando algoritmos
 - 😄 Pronouns: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guthaluthaa&show_icons=true&theme=nightowl    )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guthaluthaa&show_icons=true&theme=nightowl    )
 
 
 <div style="display: inline_block"><br>
@@ -25,7 +25,6 @@
     <a href = "mailto: guthalutha0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-leite-9b305a20a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
 
 </div>
 
