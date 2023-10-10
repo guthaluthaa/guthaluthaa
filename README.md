@@ -3,8 +3,8 @@
 
 - 🕵️‍ Me chamo Gustavo Leite
 - 📘 Estudante de Ciencia da Computação na FEI
-- 🔭 Procurando estagio na area
-- 🌱 Atualmente treinando algoritmos
+- 🔭 Trainee na area
+- 🌱 Atualmente treinando banco de dados
 - 😄 Pronouns: Ele/Dele
 
 <br>
