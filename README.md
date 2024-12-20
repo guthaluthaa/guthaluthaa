@@ -2,9 +2,9 @@
 
 
 - 🕵️‍ Me chamo Gustavo Leite
-- 📘 Estudante de Ciencia da Computação na FEI
-- 🔭 Trainee na area
-- 🌱 Atualmente treinando banco de dados
+- 📘 Formado em Ciencia da Computação na FEI
+- 🔭 Software Developer Junior
+- 🌱 Atualmente estudando para certificação
 - 😄 Pronouns: Ele/Dele
 
 <br>
